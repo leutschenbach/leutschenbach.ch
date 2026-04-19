@@ -57,14 +57,16 @@ table td:nth-of-type(2) {
 |---|---|
 | *CHF 10.-* | **pro Stunde** |
 | *CHF 50.-* | **ganzer Tag** (ab 5 Stunden) |
-| *CHF 100.-* | **an Festtagen** |
+| *CHF 100.-* | **an Feiertagen** (gesetzliche Feiertage Zürich) |
 | *CHF 100.-* | **Depot** (wird nach der ordnungsgemässen Haus- und Schlüsselabgabe zurückerstattet) |
 
 Für Angebote, die der ganzen Siedlung zur Verfügung stehen, ist die Nutzung kostenlos.
 
 ### Verfügbarkeit
 
-Für **private Anlässe** kann das Gemeinschaftshaus jeweils **Mittwoch 10 bis 20 Uhr** sowie **Samstag und Sonntag von 10 bis 22 Uhr** gemietet werden.
+Für **private Anlässe** kann das Gemeinschaftshaus jeweils **Mittwoch 10 bis 20 Uhr** sowie **Samstag, Sonntag und an Feiertagen von 10 bis 22 Uhr** gemietet werden.
+
+ℹ️ Zu Beginn ist aus logistischen Gründen nur ein privater Anlass pro Wochenende möglich.
 
 Im folgenden Kalender werden bestehende Reservationen eingetragen.
 
