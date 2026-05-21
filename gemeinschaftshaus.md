@@ -41,6 +41,8 @@ Mit der Unterzeichnung des [Mietvertrags]({{ site.url }}/download/260224_Mietver
 
 ### Kosten
 
+ℹ️ Vorerst ist nur Barzahlung möglich.
+
 <style>
 table {
   display: table;
