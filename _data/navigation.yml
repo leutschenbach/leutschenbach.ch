@@ -3,5 +3,7 @@ main:
     url: /
   - title: "Gemeinschaftshaus"
     url: /gemeinschaftshaus/
+  - title: "Verein"
+    url: /verein/
   - title: "Kontakt"
     url: /kontakt/
