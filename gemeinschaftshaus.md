@@ -30,7 +30,7 @@ Unser Gemeinschaftshaus steht allen Bewohnerinnen und Bewohnern der Siedlung Leu
 
 - **Erwachsene Mieter*innen** (inkl. Gewerbe) **der Wohnsiedlung Leutschenbach**, nur für den Eigenbedarf
 - Das Gemeinschaftshaus darf **nicht kommerziell** und **nicht für politische oder religiöse Veranstaltungen** genutzt werden.
-- Der Raum ist für **maximal 80 Personen** (inkl. Kinder) zugelassen. (Momentan sind jedoch nur 60 Stühle vorhanden)
+- Der Raum ist für **maximal 80 Personen** (inkl. Kinder) zugelassen.
 - Es stehen **keine Parkplätze** in der Siedlung zur Verfügung.
 - Das Gemeinschaftshaus ist in **sauberem und ordentlichem Zustand** zurückzugeben.
 - Die **Nachtruhe ab 22:00 Uhr** ist einzuhalten.
@@ -68,7 +68,7 @@ Für Angebote, die der ganzen Siedlung zur Verfügung stehen, ist die Nutzung ko
 
 Für **private Anlässe** kann das Gemeinschaftshaus jeweils **Mittwoch 10 bis 20 Uhr** sowie **Samstag, Sonntag und an Feiertagen von 10 bis 22 Uhr** gemietet werden.
 
-ℹ️ Zu Beginn ist aus logistischen Gründen nur ein privater Anlass pro Wochenende möglich.
+ℹ️ Zu Beginn ist aus logistischen Gründen **nur ein privater Anlass pro Wochenende** möglich.
 
 Im folgenden Kalender werden bestehende Reservationen eingetragen.
 
@@ -76,7 +76,7 @@ Im folgenden Kalender werden bestehende Reservationen eingetragen.
 
 ### Reservation
 
-Reservationen werden **maximal 3 Monate im Voraus** akzeptiert.
+ℹ️ Reservationen sind **frühstens 90 Tage vor dem gewünschten Datum** möglich.
 
 Möchten Sie das Gemeinschaftshaus mieten? Kontaktieren Sie uns:
 
