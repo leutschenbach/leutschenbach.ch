@@ -9,7 +9,7 @@ header:
   overlay_image: /assets/images/gemeinschaftshaus.jpg
 ---
 
-Unser Gemeinschaftshaus steht allen Bewohnerinnen und Bewohnern der Siedlung Leutschenbach zur Verfügung und kann für verschiedene Anlässe gemietet werden. Siedlungsbezogene Veranstaltungen haben gegenüber rein privaten Anlässen den Vorrang. 
+Unser Gemeinschaftshaus steht allen Bewohnerinnen und Bewohnern der Siedlung Leutschenbach zur Verfügung und kann für verschiedene Anlässe gemietet werden. Siedlungsbezogene Veranstaltungen haben gegenüber rein privaten Anlässen den Vorrang.
 
 ### Nutzungsmöglichkeiten
 
@@ -72,7 +72,7 @@ Für **private Anlässe** kann das Gemeinschaftshaus jeweils **Mittwoch 10 bis 2
 
 Im folgenden Kalender werden bestehende Reservationen eingetragen.
 
-<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=2&ctz=Europe%2FZurich&hl=de&showTz=0&showPrint=0&src=Y19iNWM1Zjc4ZGJjZTBhMmZiNGFiYzQ2MDZjMzMwNThlNGE0NzYyZjZlYTM5MDZlMTVmNDcwZGY5MmRjZWI4ZjRlQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&color=%237986cb" style="border: 0; width: 100%; height: 600px;" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=2&ctz=Europe%2FZurich&showPrint=0&showTz=0&title=Gemeinschaftshaus%20Siedlung%20Leutschenbach&showCalendars=0&hl=de&src=Y181YzE1NzA3YWQxZDA1MzVhZGNlMzQ0Y2E3NmMwMTAzNDgwYWIwOGVlYmQ2YjVkZDY3ODEwZmU2MDc0ZjNjMDFjQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&color=%232c6e49" style="border-width:0" width="600" height="600" frameborder="0" scrolling="no"></iframe>
 
 ### Reservation
 
